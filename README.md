@@ -10,12 +10,12 @@ This contact manager GUI WAS made using the concepts of Object Oriented Design. 
 
 ## Interface
 <p align="middle">
-   <img src="screenshots/GUI1.jpg" width="400"/>
-   <img src="screenshots/GUI2.jpg" width="400"/>
+   <img src="https://github.com/therhamza/Contact-Manager-GUI-Messenger-/blob/master/screenshots/GUI1.png" width="300"/>
+   <img src="https://github.com/therhamza/Contact-Manager-GUI-Messenger-/blob/master/screenshots/GUI2.png" width="300"/>
 </p>   
 <p align="middle">
-   <img src="screenshots/GUI3.jpg" width="400"/>
-   <img src="screenshots/GUI4.jpg" width="400"/>
+   <img src="https://github.com/therhamza/Contact-Manager-GUI-Messenger-/blob/master/screenshots/GUI3.png" width="300"/>
+   <img src="https://github.com/therhamza/Contact-Manager-GUI-Messenger-/blob/master/screenshots/GUI4.png" width="300"/>
 </p>   
 
 ## Installation
