@@ -4,7 +4,7 @@
 This project was developed in parallel with the following course as the *term-project*:
 * **CSC 2303:** Advanced Programming/ Object Oriented Programming
 
-The graphical user interface portrays a Contact Manager while the rest of the project is somewhat of a messaging application that was not completed due to us not having no prior experience with servers.
+The graphical user interface portrays a Contact Manager while the rest of the project is somewhat of a messaging application that was not completed due to us having no prior experience with servers.
 
 ## Introduction
 This contact manager GUI WAS made using the concepts of Object Oriented Design. Minimal and fairly simple code is written in the GUI *(no designer was used)*. This project was designed as the term-project during the course "**Advanced Programming/ Object Oriented Programming CS2303**".
