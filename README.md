@@ -10,12 +10,12 @@ This contact manager GUI WAS made using the concepts of Object Oriented Design. 
 
 ## Interface
 <p align="middle">
-   <img src="../master/screenshots/GUI1.jpg" width="400"/>
-   <img src="../master/screenshots/GUI2.jpg" width="400"/>
+   <img src="screenshots/GUI1.jpg" width="400"/>
+   <img src="screenshots/GUI2.jpg" width="400"/>
 </p>   
 <p align="middle">
-   <img src="../master/screenshots/GUI3.jpg" width="400"/>
-   <img src="../master/screenshots/GUI4.jpg" width="400"/>
+   <img src="screenshots/GUI3.jpg" width="400"/>
+   <img src="screenshots/GUI4.jpg" width="400"/>
 </p>   
 
 ## Installation
