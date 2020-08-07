@@ -11,12 +11,12 @@ This contact manager GUI WAS made using the concepts of Object Oriented Design. 
 
 ## Interface
 <p align="middle">
-   <img src="https://github.com/therhamza/Contact-Manager-GUI-Messenger-/blob/master/screenshots/GUI1.png" width="300"/>
-   <img src="https://github.com/therhamza/Contact-Manager-GUI-Messenger-/blob/master/screenshots/GUI2.png" width="300"/>
+   <img src="https://github.com/therhamza/Contact-Manager-GUI/blob/master/screenshots/GUI1.png" width="300"/>
+   <img src="https://github.com/therhamza/Contact-Manager-GUI/blob/master/screenshots/GUI2.png" width="300"/>
 </p>   
 <p align="middle">
-   <img src="https://github.com/therhamza/Contact-Manager-GUI-Messenger-/blob/master/screenshots/GUI3.png" width="300"/>
-   <img src="https://github.com/therhamza/Contact-Manager-GUI-Messenger-/blob/master/screenshots/GUI4.png" width="300"/>
+   <img src="https://github.com/therhamza/Contact-Manager-GUI/blob/master/screenshots/GUI3.png" width="300"/>
+   <img src="https://github.com/therhamza/Contact-Manager-GUI/blob/master/screenshots/GUI4.png" width="300"/>
 </p>   
 
 ## Installation
@@ -24,7 +24,7 @@ This contact manager GUI WAS made using the concepts of Object Oriented Design. 
  * [Java SE Development Kit 8 (JDK 8)](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
  * After installing JDK 8, install [NetBeans IDE](https://netbeans.org/downloads/)
 2. Open NetBeans IDE.
-  * Click on `File -> Open Project` and browse to the downloaded folder named `Project` and select it. It will load the NetBeans project.
+ * Click on `File -> Open Project` and browse to the downloaded folder named `Project` and select it. It will load the NetBeans project.
 
 3. Now you are ready to run the project!
 
@@ -33,4 +33,4 @@ This contact manager GUI WAS made using the concepts of Object Oriented Design. 
 Pull requests are welcome. Keep in mind that this is a **beginner's** graphical user interface, which served as practice in order to gain familliarity with the `Java Swing Library`.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/therhamza/Contact-Manager-GUI/blob/master/LISENCE)
